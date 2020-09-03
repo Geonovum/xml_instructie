@@ -104,7 +104,8 @@
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Instructie aan de gemeente Gemeentestad</Al>
                </RegelingOpschrift>
-               <Lichaam eId="body" wId="body"><!-- Onderstaande Divisie is nodig om in imow de tekst te kunnen annoteren. Divisie heeft een verplichte Kop. -->
+               <Lichaam eId="body" wId="body">
+                  <!-- Onderstaande Divisie is nodig om in imow de tekst te kunnen annoteren. Divisie heeft een verplichte Kop. -->
                   <Divisie eId="div_o_1" wId="mnre1109_1__div_o_1">
                      <Kop>
                         <Opschrift>[Opschrift_1]</Opschrift>
