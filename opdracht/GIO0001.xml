@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/mnre1109/2020/villawijk_de_parkel</FRBRWork>
+      <FRBRExpression>/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/mnre1109/2020/IN0001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>villawijk_de_parkel.gml</bestandsnaam>
+            <hash>7e3bf663c7d88a67d2ca0e2f2250e2bd6f1c36b23234ba00765607a2ba2bef933a0e304e3fe51b7de3974cd312fb60268e7b31ce8474a2a96ae8a4983631f9bb</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1109</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1109</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Villawijk de Parkel</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <naamInformatieObject>Villawijk de Parkel</naamInformatieObject>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
