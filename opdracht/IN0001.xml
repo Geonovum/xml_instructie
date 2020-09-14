@@ -18,6 +18,9 @@
             <rechtsgebied>/tooi/def/concept/c_3e6b35e2</rechtsgebied>
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</informatieobjectRef>
+         </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <bekendOp>2020-05-11</bekendOp>
@@ -43,14 +46,18 @@
                   <doel>/join/id/proces/mnre1109/2020/InstellingInstructie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</instrumentVersie>
-               <eId>cmp_II__div_o_1__content_o_1__list_o_1__item_o_1</eId>
+               <eId>!initieel_reg#cmp_II__div_o_1__content_o_1__list_o_1__item_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/mnre1109/2020/InstellingInstructie</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <!-- datum aangepast tbv ketentest, was:
                <datum>2021-01-01</datum>
+               -->
+               
+               <datum>2020-09-01</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -77,7 +84,7 @@
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>Aan de gemeenteraad van Gemeentestad de in bijlage I opgenomen instructie te geven.</Wat>
+               <Wat>Aan de gemeenteraad van Gemeentestad de in <IntRef ref="cmp_I">bijlage I</IntRef> opgenomen instructie te geven.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="mnre1109_1__art_II">
                <Kop>
