@@ -27,7 +27,7 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/mnre1109/2020/Villawijk_de_Parkel/nld@2020-09-03;1</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
