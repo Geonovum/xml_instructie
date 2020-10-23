@@ -35,6 +35,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1109.tekstdeel.20200001</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Indicatief</vt:idealisatie>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1109.divisie.20200001"/>
                </vt:divisieaanduiding>
