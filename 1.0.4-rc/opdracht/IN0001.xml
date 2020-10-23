@@ -15,9 +15,7 @@
          <maker>/tooi/id/ministerie/mnre1109</maker>
          <!--soortBestuursorgaan is 'minister'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
-         <officieleTitel>
-            Instructie aan de gemeente Gemeentestad
-         </officieleTitel>
+         <officieleTitel>Instructie aan de gemeente Gemeentestad</officieleTitel>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_2408fb5a</onderwerp>
          </onderwerpen>
@@ -301,12 +299,7 @@
          <maker>/tooi/id/ministerie/mnre1109</maker>
          <!--soortBestuursorgaan is 'minister'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
-         <officieleTitel>
-                  Instructie aan de gemeente Gemeentestad
-               </officieleTitel>
-         <alternatieveTitels>
-            <alternatieveTitel>Instructie aan de gemeente Gemeentestad</alternatieveTitel>
-         </alternatieveTitels>
+         <officieleTitel>Instructie aan de gemeente Gemeentestad</officieleTitel>
          <overheidsdomeinen>
             <overheidsdomein>/tooi/def/concept/c_3708ac5e</overheidsdomein>
          </overheidsdomeinen>
