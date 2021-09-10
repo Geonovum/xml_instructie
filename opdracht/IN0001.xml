@@ -116,121 +116,113 @@
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Instructie aan de gemeente Gemeentestad</Al>
                </RegelingOpschrift>
-               <Lichaam eId="body" wId="body"><!-- Onderstaande Divisie is nodig om in imow de tekst te kunnen annoteren. Divisie heeft een verplichte Kop. -->
-                  <Divisie eId="div_o_1" wId="mnre1109_1__div_o_1">
-                     <Kop>
-                        <Opschrift>[Opschrift_1]</Opschrift>
-                     </Kop>
-                     <!-- Divisietekst heeft binnen een Divisie een verplichte Kop. -->
-                     <Divisietekst eId="div_o_1__content_o_1" wId="mnre1109_1__div_o_1__content_o_1">
-                        <Kop>
-                           <Opschrift>[Opschrift_2]</Opschrift>
-                        </Kop>
+               <Lichaam eId="body" wId="body">
+                     <Divisietekst eId="content_o_1" wId="mnre1109_1__content_o_1">
                         <Inhoud>
-                           <Lijst eId="div_o_1__content_o_1__list_o_1"
-                                  wId="mnre1109_1__div_o_1__content_o_1__list_o_1"
+                           <Lijst eId="content_o_1__list_o_1"
+                                  wId="mnre1109_1__content_o_1__list_o_1"
                                   type="expliciet">
                               <Lijstaanhef>De minister van Onderwijs, Cultuur en Wetenschappen draagt aan de gemeenteraad van Gemeentestad op om in het omgevingsplan:</Lijstaanhef>
-                              <Li eId="div_o_1__content_o_1__list_o_1__item_o_1"
-                                  wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_1">
+                              <Li eId="content_o_1__list_o_1__item_o_1"
+                                  wId="mnre1109_1__content_o_1__list_o_1__item_o_1">
                                  <LiNummer>•</LiNummer>
-                                 <Al>aan het werkingsgebied <IntIoRef eId="div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="mnre1109_1__cmp_II__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">De Parkel</IntIoRef> de functie-aanduiding rijksbeschermd stadsgezicht te geven;</Al>
+                                 <Al>aan het werkingsgebied <IntIoRef eId="content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              ref="mnre1109_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">De Parkel</IntIoRef> de functie-aanduiding rijksbeschermd stadsgezicht te geven;</Al>
                               </Li>
-                              <Li eId="div_o_1__content_o_1__list_o_1__item_o_2"
-                                  wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2">
+                              <Li eId="content_o_1__list_o_1__item_o_2"
+                                  wId="mnre1109_1__content_o_1__list_o_1__item_o_2">
                                  <LiNummer>•</LiNummer>
-                                 <Lijst eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1"
-                                        wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1"
+                                 <Lijst eId="content_o_1__list_o_1__item_o_2__list_o_1"
+                                        wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1"
                                         type="expliciet">
                                     <Lijstaanhef>regels te stellen gericht op het beschermen van het aldus aangeduide stadsgezicht, voor zover dat nodig is voor het behoud van het aanwezige cultureel erfgoed, waarbij die regels in ieder geval moeten betreffen de bescherming van:</Lijstaanhef>
-                                    <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1"
-                                        wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1">
+                                    <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_1"
+                                        wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1">
                                        <LiNummer>o</LiNummer>
-                                       <Lijst eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1"
+                                       <Lijst eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1"
                                               type="expliciet">
                                           <Lijstaanhef>de hoofdstructuur, bestaande uit:</Lijstaanhef>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_1">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_1">
                                              <LiNummer>-</LiNummer>
                                              <Al>het stratenpatroon, met zowel nieuw ontworpen structuren (lanen en pleinen), als gehandhaafde oudere structuren;</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_2"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_2">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_2"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_2">
                                              <LiNummer>-</LiNummer>
                                              <Al>de ligging en inrichting van de groengebieden, waaronder de in Engelse landschapsstijl ingerichte parken;</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_3"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_3">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_3"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_1__list_o_1__item_o_3">
                                              <LiNummer>-</LiNummer>
                                              <Al>de verkaveling van de bouwblokken;</Al>
                                           </Li>
                                        </Lijst>
                                     </Li>
-                                    <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2"
-                                        wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2">
+                                    <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_2"
+                                        wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2">
                                        <LiNummer>o</LiNummer>
-                                       <Lijst eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1"
+                                       <Lijst eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1"
                                               type="expliciet">
                                           <Lijstaanhef>de lineaire structuur, bestaande uit:</Lijstaanhef>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1__item_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1__item_o_1">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1__item_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_2__list_o_1__item_o_1">
                                              <LiNummer>-</LiNummer>
                                              <Al>het verloop, het profiel en de beplanting van lanen;</Al>
                                           </Li>
                                        </Lijst>
                                     </Li>
-                                    <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3"
-                                        wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3">
+                                    <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3"
+                                        wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3">
                                        <LiNummer>o</LiNummer>
-                                       <Lijst eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1"
+                                       <Lijst eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1"
                                               type="expliciet">
                                           <Lijstaanhef>de zichtassen naar en vanuit:</Lijstaanhef>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_1">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_1">
                                              <LiNummer></LiNummer>
                                              <Al>Marialaar: de Haersma de Withlaan, de Canadalaan-Wilhelminapark en de Anna Paulownalaan;</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_2"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_2">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_2"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_2">
                                              <LiNummer></LiNummer>
                                              <Al>de HBS: het Prins Hendrikplein</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_3"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_3">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_3"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_3">
                                              <LiNummer></LiNummer>
                                              <Al>het Gymnasium: de Kastanjelaan;</Al>
                                           </Li>
                                        </Lijst>
                                     </Li>
-                                    <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4"
-                                        wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4">
+                                    <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_4"
+                                        wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4">
                                        <LiNummer>o</LiNummer>
-                                       <Lijst eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1"
+                                       <Lijst eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1"
                                               type="expliciet">
                                           <Lijstaanhef>objecten en complexen, bestaande uit:</Lijstaanhef>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_1"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_1">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_1"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_1">
                                              <LiNummer>-</LiNummer>
                                              <Al>het bebouwingsbeeld: meest vrijstaande panden, enkele dubbele woningen en drieslagen, voornamelijk panden van twee bouwlagen met kap;</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_2"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_2">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_2"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_2">
                                              <LiNummer>-</LiNummer>
                                              <Al>de aanwezige rijksmonumenten, gemeentelijke monumenten en beeldbepalende panden;</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_3"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_3">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_3"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_3">
                                              <LiNummer>-</LiNummer>
                                              <Al>het groene karakter van voor- en achtertuinen en het zicht door de (voor)tuinen op de bebouwing en rooilijn;</Al>
                                           </Li>
-                                          <Li eId="div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_4"
-                                              wId="mnre1109_1__div_o_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_4">
+                                          <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_4"
+                                              wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_4__list_o_1__item_o_4">
                                              <LiNummer>-</LiNummer>
                                              <Al>de erfafscheidingen met veelal smeed- en gietijzeren hekwerken.</Al>
                                           </Li>
@@ -241,7 +233,6 @@
                            </Lijst>
                         </Inhoud>
                      </Divisietekst>
-                  </Divisie>
                </Lichaam>
                <Bijlage eId="cmp_II" wId="mnre1109_1__cmp_II">
                   <Kop>

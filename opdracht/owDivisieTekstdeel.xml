@@ -27,9 +27,9 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="mnre1109_1__div_o_1">
-               <vt:identificatie>nl.imow-mnre1109.divisie.20200001</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="mnre1109_1__content_o_1">
+               <vt:identificatie>nl.imow-mnre1109.divisietekst.20200001</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -37,7 +37,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1109.tekstdeel.20200001</vt:identificatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1109.divisie.20200001"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1109.divisietekst.20200001"/>
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1109.gebied.20200001"/>
