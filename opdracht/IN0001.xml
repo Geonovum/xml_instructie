@@ -237,29 +237,18 @@
                <Bijlage eId="cmp_II" wId="mnre1109_1__cmp_II">
                   <Kop>
                      <Label>Bijlage</Label>
-                     <Nummer>II</Nummer>
+                     <Nummer>I</Nummer>
+                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
                   </Kop>
-                  <!-- Onderstaande Divisie is nodig om in imow de tekst te kunnen annoteren. Divisie heeft een verplichte Kop. -->
-                  <Divisie eId="cmp_II__div_o_1" wId="mnre1109_1__cmp_II__div_o_1">
-                     <Kop>
-                        <Opschrift>[Opschrift_3]</Opschrift>
-                     </Kop>
-                     <!-- Divisietekst heeft binnen een Divisie een verplichte Kop. -->
-                     <Divisietekst eId="cmp_II__div_o_1__content_o_1"
-                                   wId="mnre1109_1__cmp_II__div_o_1__content_o_1">
-                        <Kop>
-                           <Opschrift>[Opschrift_4]</Opschrift>
-                        </Kop>
+                     <Divisietekst eId="cmp_II__content_o_1" wId="mnre1109_1__cmp_II__content_o_1">
                         <Inhoud>
-                           <Begrippenlijst eId="cmp_II__div_o_1__content_o_1__list_o_1"
-                                           wId="mnre1109_1__cmp_II__div_o_1__content_o_1__list_o_1">
-                              <Begrip eId="cmp_II__div_o_1__content_o_1__list_o_1__item_o_1"
-                                      wId="mnre1109_1__cmp_II__div_o_1__content_o_1__list_o_1__item_o_1">
+                           <Begrippenlijst eId="cmp_II__content_o_1__list_o_1" wId="mnre1109_1__cmp_II__content_o_1__list_o_1">
+                              <Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1" wId="mnre1109_1__cmp_II__content_o_1__list_o_1__item_o_1">
                                  <Term>Villawijk de Parkel</Term>
                                  <Definitie>
                                     <Al>
-                                       <ExtIoRef eId="cmp_II__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                                 wId="mnre1109_1__cmp_II__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       <ExtIoRef eId="cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                                 wId="mnre1109_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1"
                                                  ref="/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1">/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</ExtIoRef>
                                     </Al>
                                  </Definitie>
@@ -267,7 +256,6 @@
                            </Begrippenlijst>
                         </Inhoud>
                      </Divisietekst>
-                  </Divisie>
                </Bijlage>
             </RegelingVrijetekst>
          </WijzigBijlage>
