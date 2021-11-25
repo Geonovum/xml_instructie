@@ -52,7 +52,7 @@
                   <doel>/join/id/proces/mnre1109/2020/InstellingInstructie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/mnre1109/2020/villawijk_de_parkel/nld@2020-09-03;1</instrumentVersie>
-               <eId>!initieel_reg#cmp_II__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+               <eId>!initieel_reg#cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -128,7 +128,7 @@
                                  <LiNummer>•</LiNummer>
                                  <Al>aan het werkingsgebied <IntIoRef eId="content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="mnre1109_1__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="mnre1109_1__cmp_II__div_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">De Parkel</IntIoRef> de functie-aanduiding rijksbeschermd stadsgezicht te geven;</Al>
+                                              ref="mnre1109_1__cmp_II__content_o_1__list_o_1__item_o_1__ref_o_1">De Parkel</IntIoRef> de functie-aanduiding rijksbeschermd stadsgezicht te geven;</Al>
                               </Li>
                               <Li eId="content_o_1__list_o_1__item_o_2"
                                   wId="mnre1109_1__content_o_1__list_o_1__item_o_2">
@@ -184,17 +184,17 @@
                                           <Lijstaanhef>de zichtassen naar en vanuit:</Lijstaanhef>
                                           <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_1"
                                               wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_1">
-                                             <LiNummer></LiNummer>
+                                             <LiNummer>-</LiNummer>
                                              <Al>Marialaar: de Haersma de Withlaan, de Canadalaan-Wilhelminapark en de Anna Paulownalaan;</Al>
                                           </Li>
                                           <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_2"
                                               wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_2">
-                                             <LiNummer></LiNummer>
+                                             <LiNummer>-</LiNummer>
                                              <Al>de HBS: het Prins Hendrikplein</Al>
                                           </Li>
                                           <Li eId="content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_3"
                                               wId="mnre1109_1__content_o_1__list_o_1__item_o_2__list_o_1__item_o_3__list_o_1__item_o_3">
-                                             <LiNummer></LiNummer>
+                                             <LiNummer>-</LiNummer>
                                              <Al>het Gymnasium: de Kastanjelaan;</Al>
                                           </Li>
                                        </Lijst>
