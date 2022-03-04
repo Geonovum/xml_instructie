@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/mnre1109/2020/villawijk_de_parkel</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Villawijk_de_Parkel.gml</bestandsnaam>
-                  <hash>d7de6f7ddcb39fa710fdecafc605dab21b11ac78090d2854b09d8dc4217bd2ab270063dac87b79c8601ffd1393ad2de98a57b0b2831e824cc2bb0adcf3d761c7</hash>
+                  <hash>da6218293927ff9ca2618a169c0131d9e01896f76700742cef1937fd0b21ff923b15516b313e8812c3dd39e045a76eb61ff81a885073b9b8d549d153f32291a5</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
