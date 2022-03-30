@@ -36,6 +36,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1109.tekstdeel.20200001</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-mnre1109.divisietekst.20200001"/>
                </vt:divisieaanduiding>
