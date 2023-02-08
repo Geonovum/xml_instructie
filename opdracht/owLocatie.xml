@@ -27,6 +27,7 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-mnre1109.gebied.20200001</l:identificatie>
+               <l:noemer>Villawijk de Parkel</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="9a97724a-7c70-4e20-b9fd-751b79854a36"/>
                </l:geometrie>

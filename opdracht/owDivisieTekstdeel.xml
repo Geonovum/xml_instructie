@@ -20,8 +20,7 @@
          <sl:gebied>Villawijk de Parkel</sl:gebied>
          <sl:leveringsId>IN0001_001</sl:leveringsId>
          <sl:objectTypen>
-            <sl:objectType>Divisie</sl:objectType>
-            <sl:objectType>Divisietekst</sl:objectType>
+             <sl:objectType>Divisietekst</sl:objectType>
             <sl:objectType>Tekstdeel</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
